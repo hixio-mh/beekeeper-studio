@@ -74,7 +74,7 @@
     "vuex-persist": "^2.0.1",
     "xel": "beekeeper-studio/xel",
     "xlsx": "^0.16.2",
-    "yup": "^0.27.0"
+    "yup": "^0.31.0"
   },
   "devDependencies": {
     "@types/codemirror": "^0.0.97",
