@@ -14021,9 +14021,10 @@ xdg-basedir@^4.0.0:
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-4.0.0.tgz#4bc8d9984403696225ef83a1573cbbcb4e79db13"
   integrity sha512-PSNhEJDejZYV7h50BohL09Er9VaIefr2LMAf3OEmpCkjOi34eYyQYAXUTjEQtZJTKcF0E2UKTh+osDLsgNim9Q==
 
-xel@beekeeper-studio/xel:
-  version "0.0.220"
-  resolved "https://codeload.github.com/beekeeper-studio/xel/tar.gz/dbdc7439dafdb0dd5553b97cebf8b30e0f6c2ae0"
+xel@0.0.230:
+  version "0.0.230"
+  resolved "https://registry.yarnpkg.com/xel/-/xel-0.0.230.tgz#91c125ac00ba1d06ec1fa58bad20adb90bd0124e"
+  integrity sha512-9ljuJHT/qAeqZJFDwxSbAX0W/Mw8bFM2eHEolNxczMs0cOi57D8X8R0Df1Scv3t4yQDzxYwn6GApxNerIJV1VQ==
 
 xlsx@^0.16.2:
   version "0.16.2"
