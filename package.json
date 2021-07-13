@@ -40,7 +40,7 @@
     "mkdirp": "^1.0.4",
     "mssql": "^6.2.0",
     "mysql2": "^2.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^6.0.1",
     "node-ssh-forward": "^0.7.2",
     "pg": "^8.4.2",
     "pg-hstore": "^2.3.3",
@@ -73,7 +73,7 @@
     "vuex": "^3.1.1",
     "vuex-persist": "^2.0.1",
     "xel": "beekeeper-studio/xel",
-    "xlsx": "^0.16.2",
+    "xlsx": "^0.17.0",
     "yup": "^0.27.0"
   },
   "devDependencies": {
@@ -97,7 +97,7 @@
     "@vue/test-utils": "^1.0.3",
     "aws-sdk": "^2.645.0",
     "babel-eslint": "^10.0.1",
-    "electron": "8.5.2",
+    "electron": "11.4.10",
     "electron-builder-notarize": "beekeeper-studio/electron-builder-notarize#master",
     "electron-rebuild": "^1.8.5",
     "electron-updater": "^4.2.5",
