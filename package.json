@@ -34,7 +34,7 @@
     "humanize-duration": "^3.23.1",
     "javascript-time-ago": "^2.0.8",
     "jquery": "^3.5.0",
-    "knex": "^0.21.2",
+    "knex": "^2.4.0",
     "lodash": "^4.17.19",
     "material-icons": "^0.3.1",
     "mkdirp": "^1.0.4",
